@@ -15,3 +15,5 @@ class[_UIHostingView<ContentView>]
 --->class[_UIScrollViewScrollIndicator]
 ---->class[UIView]
 ```
+
+The content of the ScrollView is at `_UIHostingView<ScrollViewContentContainer>`.
